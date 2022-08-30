@@ -14,4 +14,4 @@ You can search OMDB for movies
 
 ### App link
 
-[OMDB Search Engine] (https://omdb-search-engine.vercel.app)
+[OMDB Search Engine](https://omdb-search-engine.vercel.app)
